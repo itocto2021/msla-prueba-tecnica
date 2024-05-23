@@ -1,6 +1,6 @@
 version: '3'
 services:
-  order-service:
+  msla-service:
     build: .
     ports:
       - "8082:8082"
